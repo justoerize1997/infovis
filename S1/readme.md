@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,11 +11,9 @@
   <h3 id="alumno">Justo Luis Erize</h3> 
   <h1><a href="https://jpcasal.github.io/infovis/">infovis</a></h1>
       
- <h3 id="week44">Semana 2</h3>
+ <h3 id="week44">Semana 1</h3>
 <h1> Fundraising by Members of the 117th Congress</h1>
-  <li><a href="https://justoerize1997.github.io/infovis/S1/Libro1.html">Libro1</a></li>
-  <li><a href="https://justoerize1997.github.io/infovis/S1/viz.png">W44 - Realizado en Clase</a></li>
-  <li><a href="https://justoerize1997.github.io/infovis/S1/viz.svg"">Beeswarm y boxplot desde Flourish</a></li>
+  <li><a href="https://justoerize1997.github.io/infovis/S1/Libro1.html">Tableau</a></li>
+  <li><a href="https://justoerize1997.github.io/infovis/S1/viz.png">PNG</a></li>
+  <li><a href="https://justoerize1997.github.io/infovis/S1/viz.svg">SVG</a></li>
   
-  <p>fuente de datos <a href="https://www.opensecrets.org/members-of-congress/members-list">Source</a></p>
-   <h3 id="week44"></h3>
