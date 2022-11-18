@@ -19,6 +19,3 @@
   <li><a href="https://justoerize1997.github.io/infovis/S2/Scatterplot.html"">Scatterplot</a></li>
   <li><a href="https://justoerize1997.github.io/infovis/S2/Tableau.html"">Tableau</a></li>
 
-
-  <p>fuente de datos <a href="https://www.opensecrets.org/members-of-congress/members-list">Source</a></p>
-   <h3 id="week44"></h3>
