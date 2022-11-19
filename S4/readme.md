@@ -17,3 +17,5 @@
   <li><a href="https://justoerize1997.github.io/infovis/S4/Tableau.html"">Tableau</a></li>
   <li><a href="https://justoerize1997.github.io/infovis/S4/PowerBi.html"">PowerBI</a></li>
   <li><a href="https://justoerize1997.github.io/infovis/S4/VAST.html"">VAST</a></li>
+  <li><a href="https://justoerize1997.github.io/infovis/S4/VAST.PNG"">VAST PNG</a></li>
+  <li><a href="https://justoerize1997.github.io/infovis/S4/Video.PNG"">VIDEO PNG</a></li>
